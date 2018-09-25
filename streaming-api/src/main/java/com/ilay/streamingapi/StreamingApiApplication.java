@@ -1,12 +1,12 @@
-package com.ilay.meetupstreamingexample;
+package com.ilay.streamingapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MeetupStreamingExampleApplication {
+public class StreamingApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MeetupStreamingExampleApplication.class, args);
+        SpringApplication.run(StreamingApiApplication.class, args);
     }
 }
